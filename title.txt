@@ -1,2 +1,1 @@
-teaching assistant,lecturers,senior lecturers,assistant professor,associate professor,
-full professor,academician
+teaching assistant,lecturers,senior lecturers,assistant professor,associate professor,full professor,academician
